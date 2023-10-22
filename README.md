@@ -25,7 +25,7 @@ Baixe o arquivo mods.zip e coloque os arquivos .jar baixado na sua pasta mods. S
 ## Junte-se ao Nosso Servidor Discord
 Junte-se à nossa comunidade vibrante no Discord! Aqui, você pode interagir com outros jogadores, receber atualizações sobre o servidor, participar de eventos e muito mais.
 
-[Junte-se ao Nosso Servidor Discord] (https://discord.gg/gHRtc4GwwW)
+[Junte-se ao Nosso Servidor Discord](https://discord.gg/gHRtc4GwwW)
 
 ## Regras e Diretrizes
 Antes de iniciar a aventura, por favor, reserve um momento para ler nossas regras e diretrizes do servidor. Essas regras garantem uma experiência positiva e agradável para todos.
